@@ -1,0 +1,6 @@
+/**/build/
+/**/.vscode/
+/**/devel/
+/**/logs/
+/**/.catkin_tools/
+/**/.history/
